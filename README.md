@@ -5,8 +5,8 @@
 
 Стек и инструменты: BPMN 2.0, UML Use Case, ER-диаграммы, DFD, User Story, Job Story, User Story Map, Figma, Miro, Draw.io, SQL, PostgreSQL, Open API, Postman, Swagger, GoogleDocs, Data Lens
 
-Всегда на связи в телеграме [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&v=3)](https://t.me/IvaOksana123), 
-в максе [![MAX](https://img.shields.io/badge/MAX-2CA5E0?style=for-the-badge&logoColor=white&v=3)](https://max.ru/u/f9LHodD0cOLjkZEtJn10nYC58zQ6uFEVrlhAhsJFUBRtMi2nv4Z2Hafl5-I)
+Всегда на связи в телеграме [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/IvaOksana123), 
+<!--в максе [![MAX](https://img.shields.io/badge/MAX-2CA5E0?style=for-the-badge&logoColor=white&v=3)](https://max.ru/u/f9LHodD0cOLjkZEtJn10nYC58zQ6uFEVrlhAhsJFUBRtMi2nv4Z2Hafl5-I)
 
 <!--
 **oivanova433-sys/oivanova433-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
