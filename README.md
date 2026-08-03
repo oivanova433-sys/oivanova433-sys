@@ -5,7 +5,7 @@
 
 Стек и инструменты: BPMN 2.0, UML Use Case, ER-диаграммы, DFD, User Story, Job Story, User Story Map, Figma, Miro, Draw.io, SQL, PostgreSQL, Open API, Postman, Swagger, GoogleDocs, Data Lens
 
-Всегда на связи в телеграме [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/IvaOksana123)
+Всегда на связи в телеграме [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&v=1)](https://t.me/IvaOksana123)
 
 
 <!--
